@@ -1,0 +1,52 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+/* Estilos de encabezado */
+header {
+  background: #635d5d;
+  padding: 20px 0;
+  text-align: center;
+  color: #fff;
+}
+
+header h1 {
+  margin: 10px 0;
+}
+
+section .bienvenido {
+  margin: 10px 0;
+  font-size: 35px;
+  color: #148fc0;
+}
+
+/* Estilos de secciones */
+section {
+  padding: 50px 0;
+  text-align: center;
+}
+
+/* Estilos de pie de página */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Estilos de productos/servicios */
+.product {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
